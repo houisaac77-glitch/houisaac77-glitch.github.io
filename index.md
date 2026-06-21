@@ -1,4 +1,4 @@
-<img width="646" height="372" alt="image" src="https://github.com/user-attachments/assets/ed10355e-114f-49ac-9297-2ee3cda0ef5a" />
+<!-- Add script to the <head> of your page to load the embeddable map component --><script type="module" src="https://js.arcgis.com/5.0/embeddable-components/"></script><!-- Add custom element to <body> of your page --> <arcgis-embedded-map style="height:600px;width:700px;" item-id="679e208d6adb47459af3d7a57981afd9" theme="light" time-zone-label-enabled center="-117.17846755321197,32.884766363178166"scale="288895.277144" portal-url="https://sdsugeo.maps.arcgis.com"></arcgis-embedded-map>
 
 # Welcome to my Web Mapping Portfolio!
 Hi, I'm Isaac Hou.
